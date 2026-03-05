@@ -1,1 +1,1 @@
-console.log('Hello! From GitBub');
+console.log('Hello! From GitHub');
